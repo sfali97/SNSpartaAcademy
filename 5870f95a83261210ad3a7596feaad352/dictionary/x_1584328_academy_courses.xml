@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="74623d5e83261210ad3a7596feaad30c" label="Courses" max_length="40" name="x_1584328_academy_courses" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Start Date" max_length="40" name="start_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="End Date" max_length="40" name="end_date" type="glide_date"/>
+        <element label="Is Active" max_length="40" name="is_active" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="n_a" label="Name of Course" max_length="40" name="name_of_course" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="C#" value="c"/>
+                <element inactive_on_update="false" label="C# Test" value="c_test"/>
+                <element inactive_on_update="false" label="ServiceNow App Dev" value="servicenow_app_dev"/>
+                <element inactive_on_update="false" label="Java Dev" value="java_dev"/>
+                <element inactive_on_update="false" label="Java Test" value="java_test"/>
+                <element inactive_on_update="false" label="N/A" value="n_a"/>
+                <element inactive_on_update="false" label="Data Engineering" value="data_engineering"/>
+            </choice>
+        </element>
+    </element>
+</database>
