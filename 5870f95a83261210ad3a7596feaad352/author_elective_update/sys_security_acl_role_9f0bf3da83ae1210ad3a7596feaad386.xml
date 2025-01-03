@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-21 01:18:59</sys_created_on>
+        <sys_id>9f0bf3da83ae1210ad3a7596feaad386</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1584328_academy_students.x_1584328_academy.students_user</sys_name>
+        <sys_package display_value="Academy" source="x_1584328_academy">5870f95a83261210ad3a7596feaad352</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Academy">5870f95a83261210ad3a7596feaad352</sys_scope>
+        <sys_security_acl display_value="x_1584328_academy_students">570bf3da83ae1210ad3a7596feaad383</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_9f0bf3da83ae1210ad3a7596feaad386</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-21 01:18:59</sys_updated_on>
+        <sys_user_role display_value="x_1584328_academy.students_user" name="x_1584328_academy.students_user">470bf79a83ae1210ad3a7596feaad39f</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Academy">5870f95a83261210ad3a7596feaad352</application>
+        <file_path/>
+        <instance_id>38cd902aff46da58c812f8e4fc4fd94d</instance_id>
+        <instance_name>dev291979</instance_name>
+        <name>sys_security_acl_role_9f0bf3da83ae1210ad3a7596feaad386</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-21 01:18:59</sys_created_on><sys_id>9f0bf3da83ae1210ad3a7596feaad386</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1584328_academy_students.x_1584328_academy.students_user</sys_name><sys_package display_value="Academy" source="x_1584328_academy">5870f95a83261210ad3a7596feaad352</sys_package><sys_policy/><sys_scope display_value="Academy">5870f95a83261210ad3a7596feaad352</sys_scope><sys_security_acl display_value="x_1584328_academy_students">570bf3da83ae1210ad3a7596feaad383</sys_security_acl><sys_update_name>sys_security_acl_role_9f0bf3da83ae1210ad3a7596feaad386</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-21 01:18:59</sys_updated_on><sys_user_role display_value="x_1584328_academy.students_user" name="x_1584328_academy.students_user">470bf79a83ae1210ad3a7596feaad39f</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-639702713</payload_hash>
+        <record_name>x_1584328_academy_students.x_1584328_academy.students_user</record_name>
+        <reverted_from/>
+        <source>e0a8791683661210ad3a7596feaad3b4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-21 01:18:59</sys_created_on>
+        <sys_id>130bf3da83ae1210ad3a7596feaad38a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193e6cbdb160000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-21 01:18:59</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>170bf3da64ae1210be7df6dfd8ad1e89</update_guid>
+        <update_guid_history>170bf3da64ae1210be7df6dfd8ad1e89:-639702713</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1584328_academy_students.x_1584328_academy.students_user">cb7fa82a83a25210ad3a7596feaad358</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-21 05:08:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>643d75d24a5c4946ab1c6f0a44c7b6c4</sys_id>
+        <sys_metadata>9f0bf3da83ae1210ad3a7596feaad386</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1584328_academy_students.x_1584328_academy.students_user</sys_name>
+        <sys_package display_value="Academy" source="x_1584328_academy">5870f95a83261210ad3a7596feaad352</sys_package>
+        <sys_parent display_value="">570bf3da83ae1210ad3a7596feaad383</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Academy">5870f95a83261210ad3a7596feaad352</sys_scope>
+        <sys_scope_delete display_value="">37a4a18c432042a4af7f8b91dead2a90</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_9f0bf3da83ae1210ad3a7596feaad386</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_9f0bf3da83ae1210ad3a7596feaad386">130bf3da83ae1210ad3a7596feaad38a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-21 05:08:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

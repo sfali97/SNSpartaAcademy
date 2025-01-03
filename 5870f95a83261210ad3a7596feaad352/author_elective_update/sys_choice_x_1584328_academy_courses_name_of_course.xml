@@ -19,19 +19,19 @@
             <dependent_value/>
             <element>name_of_course</element>
             <hint/>
-            <inactive>false</inactive>
+            <inactive>true</inactive>
             <label>C#</label>
             <language>en</language>
             <name>x_1584328_academy_courses</name>
-            <sequence/>
+            <sequence>1</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-12-20 15:21:56</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>6</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-20 15:21:56</sys_updated_on>
+            <sys_updated_on>2024-12-21 06:08:23</sys_updated_on>
             <value>c</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -42,15 +42,15 @@
             <label>C# Test</label>
             <language>en</language>
             <name>x_1584328_academy_courses</name>
-            <sequence/>
+            <sequence>2</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-12-20 15:21:56</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-20 15:21:56</sys_updated_on>
+            <sys_updated_on>2024-12-21 05:58:05</sys_updated_on>
             <value>c_test</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -58,19 +58,19 @@
             <element>name_of_course</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Data Engineering</label>
+            <label>ServiceNow App Dev</label>
             <language>en</language>
             <name>x_1584328_academy_courses</name>
-            <sequence/>
+            <sequence>3</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-12-20 15:21:56</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>4</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-20 15:21:56</sys_updated_on>
-            <value>data_engineering</value>
+            <sys_updated_on>2024-12-21 05:58:10</sys_updated_on>
+            <value>servicenow_app_dev</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -80,15 +80,15 @@
             <label>Java Dev</label>
             <language>en</language>
             <name>x_1584328_academy_courses</name>
-            <sequence/>
+            <sequence>4</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-12-20 15:21:56</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-20 15:21:56</sys_updated_on>
+            <sys_updated_on>2024-12-21 05:58:16</sys_updated_on>
             <value>java_dev</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -99,15 +99,15 @@
             <label>Java Test</label>
             <language>en</language>
             <name>x_1584328_academy_courses</name>
-            <sequence/>
+            <sequence>5</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-12-20 15:21:56</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-20 15:21:56</sys_updated_on>
+            <sys_updated_on>2024-12-21 05:58:21</sys_updated_on>
             <value>java_test</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -115,38 +115,19 @@
             <element>name_of_course</element>
             <hint/>
             <inactive>false</inactive>
-            <label>N/A</label>
+            <label>Data Engineering</label>
             <language>en</language>
             <name>x_1584328_academy_courses</name>
-            <sequence/>
+            <sequence>6</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-12-20 15:21:56</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-20 15:21:56</sys_updated_on>
-            <value>n_a</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>name_of_course</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>ServiceNow App Dev</label>
-            <language>en</language>
-            <name>x_1584328_academy_courses</name>
-            <sequence/>
-            <synonyms/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-20 15:21:56</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-20 15:21:56</sys_updated_on>
-            <value>servicenow_app_dev</value>
+            <sys_updated_on>2024-12-21 05:58:27</sys_updated_on>
+            <value>data_engineering</value>
         </sys_choice>
     </sys_choice>
 </record_update>

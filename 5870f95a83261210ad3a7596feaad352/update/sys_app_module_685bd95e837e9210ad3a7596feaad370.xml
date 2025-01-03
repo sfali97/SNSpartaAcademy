@@ -10,34 +10,34 @@
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>Courses</mobile_title>
+        <mobile_title>Add Students to a Course</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_1584328_academy_courses</name>
-        <order>100</order>
+        <name>x_1584328_academy_students</name>
+        <order>200</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
         <require_confirmation>true</require_confirmation>
-        <roles/>
+        <roles>admin</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-12-20 15:44:57</sys_created_on>
+        <sys_created_on>2025-01-01 23:59:23</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>1ea7351283661210ad3a7596feaad326</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Courses</sys_name>
+        <sys_id>685bd95e837e9210ad3a7596feaad370</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Add Students to a Course</sys_name>
         <sys_overrides/>
         <sys_package display_value="Academy" source="x_1584328_academy">5870f95a83261210ad3a7596feaad352</sys_package>
         <sys_policy/>
         <sys_scope display_value="Academy">5870f95a83261210ad3a7596feaad352</sys_scope>
-        <sys_update_name>sys_app_module_1ea7351283661210ad3a7596feaad326</sys_update_name>
+        <sys_update_name>sys_app_module_685bd95e837e9210ad3a7596feaad370</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-01-01 23:49:21</sys_updated_on>
+        <sys_updated_on>2025-01-01 23:59:23</sys_updated_on>
         <timeline_page/>
-        <title>Courses</title>
+        <title>Add Students to a Course</title>
         <uncancelable>false</uncancelable>
-        <view_name>Courses</view_name>
+        <view_name>Add Students to a Course</view_name>
         <window_name/>
     </sys_app_module>
 </record_update>

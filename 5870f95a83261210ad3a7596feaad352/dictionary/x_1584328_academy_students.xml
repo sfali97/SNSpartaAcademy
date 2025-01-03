@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2e8f6c2a83a25210ad3a7596feaad32d" label="Students" max_length="40" name="x_1584328_academy_students" type="collection">
+        <element display="true" label="Student" max_length="32" name="student" reference="sys_user" type="reference"/>
+        <element choice="1" label="Course" max_length="40" name="course" reference="x_1584328_academy_courses" type="reference">
+            <choice/>
+        </element>
+        <element label="Enrollment Date " max_length="255" name="enrollment_date" type="glide_date"/>
+        <index name="index">
+            <element name="student"/>
+        </index>
+    </element>
+</database>

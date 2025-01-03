@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2a048b9783221210ad3a7596feaad3b8" label="x_1584328_academy_m2m_Courses_Students" max_length="40" name="x_1584328_academy_m2m_x_1584328_ac_x_1584328_ac" type="collection">
+        <element attributes="encode_utf8=false" label="Students" max_length="32" name="x_1584328_academy_students" reference="x_1584328_academy_students" type="reference"/>
+        <element attributes="encode_utf8=false" label="Courses" max_length="32" name="x_1584328_academy_courses" reference="x_1584328_academy_courses" type="reference"/>
+        <index name="index">
+            <element name="x_1584328_academy_courses"/>
+        </index>
+        <index name="index2">
+            <element name="x_1584328_academy_students"/>
+        </index>
+    </element>
+</database>

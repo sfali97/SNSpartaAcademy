@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="5996052683265210ad3a7596feaad3e2" sys_domain="global" table="x_1584328_academy_courses" version="3" view="ci_definition">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 00:27:51</sys_created_on>
+            <sys_id>6f1c03d383621210ad3a7596feaad3b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1584328_academy_courses" sys_domain="global" view="c2567de3370102000a9dcc028e41f1b1">5996052683265210ad3a7596feaad3e2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 00:27:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name_of_course</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 00:27:51</sys_created_on>
+            <sys_id>ab1c03d383621210ad3a7596feaad3b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1584328_academy_courses" sys_domain="global" view="c2567de3370102000a9dcc028e41f1b1">5996052683265210ad3a7596feaad3e2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 00:27:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>studen0</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 00:27:51</sys_created_on>
+            <sys_id>a31c03d383621210ad3a7596feaad3b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1584328_academy_courses" sys_domain="global" view="c2567de3370102000a9dcc028e41f1b1">5996052683265210ad3a7596feaad3e2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 00:27:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 00:27:51</sys_created_on>
+            <sys_id>ab1c03d383621210ad3a7596feaad3b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1584328_academy_courses" sys_domain="global" view="c2567de3370102000a9dcc028e41f1b1">5996052683265210ad3a7596feaad3e2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 00:27:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>end_date</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 00:27:51</sys_created_on>
+            <sys_id>a31c03d383621210ad3a7596feaad3ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1584328_academy_courses" sys_domain="global" view="c2567de3370102000a9dcc028e41f1b1">5996052683265210ad3a7596feaad3e2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 00:27:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 00:27:51</sys_created_on>
+            <sys_id>ab1c03d383621210ad3a7596feaad3ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1584328_academy_courses" sys_domain="global" view="c2567de3370102000a9dcc028e41f1b1">5996052683265210ad3a7596feaad3e2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 00:27:51</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>is_active</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-24 00:27:51</sys_created_on>
+            <sys_id>a31c03d383621210ad3a7596feaad3bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1584328_academy_courses" sys_domain="global" view="c2567de3370102000a9dcc028e41f1b1">5996052683265210ad3a7596feaad3e2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-24 00:27:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1584328_academy_courses</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-21 06:49:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5996052683265210ad3a7596feaad3e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1584328_academy_courses</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Academy" source="x_1584328_academy">5870f95a83261210ad3a7596feaad352</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Academy">5870f95a83261210ad3a7596feaad352</sys_scope>
+            <sys_update_name>sys_ui_section_5996052683265210ad3a7596feaad3e2</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-21 06:49:00</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="CI Definition" name="ci_definition">c2567de3370102000a9dcc028e41f1b1</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

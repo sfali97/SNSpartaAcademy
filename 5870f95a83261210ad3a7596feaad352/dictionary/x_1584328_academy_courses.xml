@@ -4,16 +4,23 @@
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="End Date" max_length="40" name="end_date" type="glide_date"/>
         <element label="Is Active" max_length="40" name="is_active" type="boolean"/>
-        <element attributes="edge_encryption_enabled=true" choice="3" default="n_a" label="Name of Course" max_length="40" name="name_of_course" type="choice">
+        <element label="Student" max_length="32" name="student" reference="x_1584328_academy_students" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" display="true" label="Name of Course" max_length="40" name="name_of_course" type="choice">
             <choice>
-                <element inactive_on_update="false" label="C#" value="c"/>
-                <element inactive_on_update="false" label="C# Test" value="c_test"/>
-                <element inactive_on_update="false" label="ServiceNow App Dev" value="servicenow_app_dev"/>
-                <element inactive_on_update="false" label="Java Dev" value="java_dev"/>
-                <element inactive_on_update="false" label="Java Test" value="java_test"/>
-                <element inactive_on_update="false" label="N/A" value="n_a"/>
-                <element inactive_on_update="false" label="Data Engineering" value="data_engineering"/>
+                <element inactive="true" inactive_on_update="true" label="C#" sequence="1" value="c"/>
+                <element inactive_on_update="false" label="C# Test" sequence="2" value="c_test"/>
+                <element inactive_on_update="false" label="ServiceNow App Dev" sequence="3" value="servicenow_app_dev"/>
+                <element inactive_on_update="false" label="Java Dev" sequence="4" value="java_dev"/>
+                <element inactive_on_update="false" label="Java Test" sequence="5" value="java_test"/>
+                <element inactive_on_update="false" label="Data Engineering" sequence="6" value="data_engineering"/>
             </choice>
         </element>
+        <element label="StudentName" max_length="32" name="studentname" reference="x_1584328_academy_m2m_x_1584328_ac_x_1584328_ac" type="reference"/>
+        <index name="index">
+            <element name="student"/>
+        </index>
+        <index name="index2">
+            <element name="studentname"/>
+        </index>
     </element>
 </database>

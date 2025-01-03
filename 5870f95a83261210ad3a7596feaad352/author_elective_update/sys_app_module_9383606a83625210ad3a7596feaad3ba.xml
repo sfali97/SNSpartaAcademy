@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Academy">16a7351283661210ad3a7596feaad322</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Add Students</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1584328_academy_students</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-21 04:17:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9383606a83625210ad3a7596feaad3ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Add Students</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Academy" source="x_1584328_academy">5870f95a83261210ad3a7596feaad352</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Academy">5870f95a83261210ad3a7596feaad352</sys_scope>
+        <sys_update_name>sys_app_module_9383606a83625210ad3a7596feaad3ba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-21 04:17:46</sys_updated_on>
+        <timeline_page/>
+        <title>Add Students</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Academy">5870f95a83261210ad3a7596feaad352</application>
+        <file_path/>
+        <instance_id>38cd902aff46da58c812f8e4fc4fd94d</instance_id>
+        <instance_name>dev291979</instance_name>
+        <name>sys_app_module_9383606a83625210ad3a7596feaad3ba</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Academy">16a7351283661210ad3a7596feaad322</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Add Students</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1584328_academy_students</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-21 04:17:46</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9383606a83625210ad3a7596feaad3ba</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Add Students</sys_name><sys_overrides/><sys_package display_value="Academy" source="x_1584328_academy">5870f95a83261210ad3a7596feaad352</sys_package><sys_policy/><sys_scope display_value="Academy">5870f95a83261210ad3a7596feaad352</sys_scope><sys_update_name>sys_app_module_9383606a83625210ad3a7596feaad3ba</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-21 04:17:46</sys_updated_on><timeline_page/><title>Add Students</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1901016035</payload_hash>
+        <record_name>Add Students</record_name>
+        <reverted_from/>
+        <source>e0a8791683661210ad3a7596feaad3b4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-21 04:17:46</sys_created_on>
+        <sys_id>4af3a0ea83625210ad3a7596feaad31e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193e76f88500000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-21 04:17:46</sys_updated_on>
+        <type>Module</type>
+        <update_guid>4ef3a0eafc62521099f7092b01146a1d</update_guid>
+        <update_guid_history>4ef3a0eafc62521099f7092b01146a1d:1901016035</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Add Students">c77fa82a83a25210ad3a7596feaad36f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-21 05:08:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>378a779b990349efbe3475de217106a1</sys_id>
+        <sys_metadata>9383606a83625210ad3a7596feaad3ba</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Add Students</sys_name>
+        <sys_package display_value="Academy" source="x_1584328_academy">5870f95a83261210ad3a7596feaad352</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Academy">5870f95a83261210ad3a7596feaad352</sys_scope>
+        <sys_scope_delete display_value="">37a4a18c432042a4af7f8b91dead2a90</sys_scope_delete>
+        <sys_update_name>sys_app_module_9383606a83625210ad3a7596feaad3ba</sys_update_name>
+        <sys_update_version display_value="sys_app_module_9383606a83625210ad3a7596feaad3ba">4af3a0ea83625210ad3a7596feaad31e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-21 05:08:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
